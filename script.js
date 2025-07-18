@@ -4,13 +4,13 @@ const message = document.getElementById("message");
 const question = document.getElementById("question");
 
 const sorular = [
-  "Sen 'hayır' dedikçe internet yavaşlıyor olabilir 👀",
-  "Bu soruyu geçersen, algoritmam duygulanır 😢",
-  "Bak hâlâ zamanın var, düşün... biraz 🧠",
+  "Sen 'hayır' dedikçe internet yavaşlıyor olabilir ",
+  "Bu soruyu geçersen, algoritmam duygulanır ",
+  "Bak hâlâ zamanın var, düşün... biraz ",
   "Bu soruya 'hayır' cevabı sistem hatası yaratabilir...",
-  "Bak bu 'hayır'lar loglanıyor, sonra üzülürsün 😶",
-  "Bir kahveyle ne kaybedersin? Belki birini kazanırsın 💫",
-  "Bu kadar çok düşünüyorsan, belki denemeye değerdir 🤷‍♂️"
+  "Bak bu 'hayır'lar loglanıyor, sonra üzülürsün ",
+  "Bir kahveyle ne kaybedersin? Belki birini kazanırsın ",
+  "Bu kadar çok düşünüyorsan, belki denemeye değerdir "
 ];
 
 
